@@ -1,2 +1,2 @@
 print ("seminar5")
-print ("Hello world!"
+print ("Hello world!")
